@@ -1,0 +1,5 @@
+var r=14;
+console.log(r)
+r="Hello World";
+console.log(r)
+console.log('Java is a Case Senstive languae')

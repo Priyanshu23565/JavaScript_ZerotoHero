@@ -1,0 +1,36 @@
+console.log("Hello ")
+console.log("difference between Let and var and Cost :")
+
+// var a="Hello World"
+// var b=90
+// console.log(a)
+// console.log(b)
+//    1 condition of let  and var & Const
+
+/*
+
+var b = "abc"
+{
+  var b = "Open Code " //  2 time run b (because is a block of  code )
+  console.log(b)
+}
+console.log(b)
+*/
+
+
+
+let b="Aman"
+{
+  let b=126
+  console.log(b)
+}
+console.log(b)
+
+const name ="Ram JI"
+console.log(name) // const (Constant ) (Does't redeclare & and not changed  )
+
+
+
+
+
+
