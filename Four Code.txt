@@ -1,0 +1,35 @@
+//nn bb ss u
+
+// nn = null , number  
+// ss = String , Symbol
+// u Undifine 
+// bb = byte boolean 
+console.log("Hello");
+//                   primitive datatype
+let a = "Hello"
+let b = 120 // Integer 
+let c = "abc" // Stirng 
+let d = true // Boolean  (output Print is True or False )
+let de = BigInt(120) + BigInt(2) // BigInt
+let e = null
+let f = undefined
+
+let g   // THis is a Undifine 
+console.log(g)
+console.log(de)
+console.log(b+12)
+console.log(typeof(c))
+console.log(typeof(de))
+
+
+
+// OBJECT 
+   // object is the key value pairs
+
+const items = {
+  "Aman":1525,
+  "Ram": true,
+  "aRUN":undefined
+  
+}
+console.log(items["Aman"])
